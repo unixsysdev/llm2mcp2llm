@@ -24,13 +24,13 @@ This approach offers several benefits:
 
 This diagram illustrates the communication flow between components in the micro-LLM marketplace:
 
-![LLM MCP Dataflow](flowchart.md)
+See [Dataflow Diagram](flowchart.md)
 
 ### Object-Oriented Class Diagram
 
 This diagram details the classes and relationships in an object-oriented implementation of the MCP interface system:
 
-![MCP Class Diagram](calls.md)
+See [Object-Oriented Class Diagram](calls.md)
 
 ## Key Components
 
