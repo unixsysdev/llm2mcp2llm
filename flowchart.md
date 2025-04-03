@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     subgraph "Orchestrator LLM"
         OL[Orchestrator LLM]
@@ -67,3 +68,4 @@ flowchart TD
     classDef orchestrator fill:#f9d5e5,stroke:#333,stroke-width:1px;
     classDef mcp fill:#eeeeee,stroke:#333,stroke-width:1px;
     classDef specialists fill:#d5e8f9,stroke:#333,stroke-width:1px;
+```
