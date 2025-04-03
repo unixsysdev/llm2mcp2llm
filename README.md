@@ -1,6 +1,6 @@
 # Micro-LLM Marketplace with MCP Interface
 
-This repository outlines an architecture for a marketplace of specialized micro-LLMs that serve as domain experts for larger, more general-purpose LLMs through standardized Master Control Program (MCP) interfaces.
+This repository outlines an architecture for a marketplace of specialized micro-LLMs that serve as domain experts for larger, more general-purpose LLMs through standardized (MCP) interfaces.
 
 ## Concept Overview
 
